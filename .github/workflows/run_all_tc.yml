@@ -1,4 +1,4 @@
-name: basic-ci-test
+name: run-all-test-case
 
 on:
   push:
